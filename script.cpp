@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 // Help me and us
 =======
 // Help me and us lol
@@ -7,3 +8,6 @@
 =======
 // Help me and us
 >>>>>>> a158b17 (change cpp in readme)
+=======
+// We want and can
+>>>>>>> 6cb3f26919fd480c87c9682a9287b75647a58304
